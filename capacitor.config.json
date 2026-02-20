@@ -1,0 +1,6 @@
+{
+  "appId": "com.diptej.elite",
+  "appName": "D.ELITE",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
